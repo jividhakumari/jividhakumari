@@ -53,6 +53,9 @@ const jividha = {
 - 🎯 Aspiring to build a career in **Data Science & Analytics**
 <br clear="right"/>
 
+---
+---
+
 ## 🧠 Skills & Technologies
 
 ### 🐍 Programming & Data Analysis

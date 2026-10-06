@@ -45,17 +45,13 @@ const jividha = {
 };
 
 ```
-
 - 🔭 Exploring **Data Science & Business Analytics**
 - 🌱 Learning **Python, SQL, Power BI & Machine Learning**
 - 📊 Interested in **Data Visualization & Business Intelligence**
 - 🎓 Combining **Commerce + Technology + Analytics**
 - 🪖 NCC has strengthened my **discipline & leadership**
 - 🎯 Aspiring to build a career in **Data Science & Analytics**
-
 <br clear="right"/>
-
----
 
 ## 🧠 Skills & Technologies
 

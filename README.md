@@ -33,28 +33,10 @@
 const jividha = {
     role: "Aspiring Data Science Professional",
     background: "Commerce Student",
-
-    interests: [
-        "Data Science",
-        "Data Analytics",
-        "Business Intelligence"
-    ],
-
-    skills: [
-        "Python",
-        "SQL",
-        "Power BI",
-        "Excel"
-    ],
-
-    currentlyLearning: [
-        "Machine Learning",
-        "Business Analytics"
-    ],
-
-    strength: "Business knowledge + Data-driven thinking",
-
-    passion: "Turning data into meaningful insights 📊"
+    interests: ["Data Science", "Data Analytics", "Business Intelligence"],
+    skills: ["Python", "SQL", "Power BI", "Excel"],
+    currentlyLearning: ["Machine Learning", "Business Analytics"],
+    goal: "Turning data into meaningful insights 📊"
 };
 ```
 

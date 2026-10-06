@@ -32,49 +32,40 @@
 ```javascript
 const jividha = {
     role: "Aspiring Data Science Professional",
-    background: "Commerce",
+    background: "Commerce Student",
 
     interests: [
         "Data Science",
         "Data Analytics",
-        "Business Intelligence",
-        "Finance & Business"
+        "Business Intelligence"
     ],
 
     skills: [
         "Python",
         "SQL",
         "Power BI",
-        "Microsoft Excel"
+        "Excel"
     ],
 
     currentlyLearning: [
-        "Data Analysis",
-        "Data Visualization",
         "Machine Learning",
         "Business Analytics"
     ],
 
-    strength:
-        "Combining business knowledge with data-driven thinking",
+    strength: "Business knowledge + Data-driven thinking",
 
-    goal:
-        "Turning data into meaningful insights and decisions 📊"
+    passion: "Turning data into meaningful insights 📊"
 };
 ```
 
-- 🔭 Exploring **Data Science, Data Analytics & Business Intelligence**
-- 🌱 Developing skills in **Python, SQL, Power BI & Excel**
-- 📊 Passionate about discovering **patterns, trends and insights from data**
-- 💡 Interested in solving real-world problems through **data-driven decision making**
-- 🎓 Building a strong foundation through my **Commerce background**
-- 🪖 Developing **discipline, leadership and teamwork** through NCC
-- 🎯 Aspiring to build a career in **Data Science / Data Analytics / Business Intelligence**
-- 🌐 Explore my work: **[Portfolio](https://jividha-kumari-portfolio.vercel.app/)**
-- 💼 Connect with me: **[LinkedIn](https://www.linkedin.com/in/jividha-kumari-bb7b11427)**
+- 🔭 Exploring **Data Science & Business Analytics**
+- 🌱 Learning **Python, SQL, Power BI & Machine Learning**
+- 📊 Interested in **Data Visualization & Business Intelligence**
+- 🎓 Combining **Commerce + Technology + Analytics**
+- 🪖 NCC has strengthened my **discipline & leadership**
+- 🎯 Aspiring to build a career in **Data Science & Analytics**
 
 <br clear="right"/>
-
 ---
 
 ---

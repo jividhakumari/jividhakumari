@@ -32,12 +32,18 @@
 ```javascript
 const jividha = {
     role: "Aspiring Data Science Professional",
+
     background: "Commerce Student",
+
     interests: ["Data Science", "Data Analytics", "Business Intelligence"],
-    skills: ["Python", "SQL", "Power BI", "Excel"],
-    currentlyLearning: ["Machine Learning", "Business Analytics"],
+
+    skills: [ "Python", "SQL", "Power BI", "Excel"],
+
+    learning: ["Machine Learning", "Business Analytics"],
+
     goal: "Turning data into meaningful insights 📊"
 };
+
 ```
 
 - 🔭 Exploring **Data Science & Business Analytics**
